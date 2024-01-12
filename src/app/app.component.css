@@ -1,0 +1,41 @@
+.headerr
+{
+	/* display: inline-block; */
+	text-align: center;
+	/* margin-top: 25px; */
+	background-color: rgb(173, 163, 163);
+}
+
+.headerrr
+{
+	/* display: inline-block; */
+	text-align: center;
+	margin-top: 25px;
+}
+
+.formm
+{
+	border: 3px;
+	border-color: black;
+}
+
+.infoo
+{
+	margin-top: 25px;
+	display: inline-block;
+	margin-left: 20px;
+}
+
+.infooo
+{
+	/* margin-top: 25px; */
+	display: inline-block;
+	margin-left: 20px;
+}
+
+.infoooo
+{
+	/* margin-top: 25px; */
+	display: flexbox;
+	margin-left: 20px;
+}	
